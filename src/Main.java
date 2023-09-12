@@ -13,7 +13,7 @@ public class Main {
         System.out.println("Введите y");
         double y = sc.nextDouble();
         double a = Math.sqrt(((x+y)/Math.log10(x*x))*n);
-        System.out.println(a);
+        System.out.println(a+" git ");
         }
 
     }
